@@ -1,0 +1,14 @@
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.exe
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.deps.json
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.runtimeconfig.json
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.runtimeconfig.dev.json
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.dll
+J:\Programação C#\OrderExercise\OrderExercise\bin\Debug\netcoreapp3.1\OrderExercise.pdb
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.csproj.AssemblyReference.cache
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.AssemblyInfoInputs.cache
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.AssemblyInfo.cs
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.csproj.CoreCompileInputs.cache
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.dll
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.pdb
+J:\Programação C#\OrderExercise\OrderExercise\obj\Debug\netcoreapp3.1\OrderExercise.genruntimeconfig.cache
